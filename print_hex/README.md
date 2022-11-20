@@ -9,7 +9,7 @@ return:
 
 ### Example
 ```
-mov bx, 0x1fb6             ; load hex value to dx
+mov dx, 0x1fb6             ; load hex value to dx
 call print_hex             ; call to function
 
 ```
