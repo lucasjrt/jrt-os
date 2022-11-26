@@ -1,6 +1,5 @@
 %ifndef PRINT_HEX_ASM
 %define PRINT_HEX_ASM
-%include "print.asm"
 ; func
 print_hex:
 	pusha                ; stack registers
